@@ -1,8 +1,5 @@
 # GPT 3.5 Experiment
 
-A starter template for building React apps with Vite. Includes Vitest for unit testing and
-a hefty .gitignore file.
-
 ## Does the code work? If not, what's broken.
 
 Yes, the code worked. 
